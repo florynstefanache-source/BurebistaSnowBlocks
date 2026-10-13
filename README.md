@@ -1,6 +1,6 @@
 # Burebista Snow Blocks
 
-**v0.1.4 · The Long Dark · Español / English**
+**v0.1.7 · The Long Dark · Español / English**
 
 [Descargar / Download](https://github.com/florynstefanache-source/BurebistaSnowBlocks/releases/latest) · [English](#english)
 
@@ -9,6 +9,8 @@
 Captura de Burebista: bloques, nieve suelta y herramienta. El mobiliario y la vela pertenecen a otros mods. / Burebista's screenshot showing blocks, loose snow and the tool. Furniture and candle belong to other mods.
 
 ## Español
+
+**Corrección 0.1.7:** el cuchillo se puede soltar y recoger, conserva su nombre al fabricar y utiliza sonidos de cuchillo metálico. Burebista ha confirmado el funcionamiento en su partida.
 
 Un nuevo sistema para obtener agua a partir de **nieve que recoges como objetos reales de inventario**. Sustituye el derretido de nieve ilimitada del juego: primero debes recoger nieve o cortar bloques. También permite recoger agua contaminada en agujeros de pesca de agua dulce y utiliza bloques para construir el iglú compatible.
 
@@ -81,7 +83,7 @@ Se mantienen **F8 para construir y F5/F6 para la escala**, así como los muebles
 ### Instalación e idioma
 
 1. Instala **MelonLoader** y cierra The Long Dark.
-2. Descarga `BurebistaSnowBlocks-v0.1.4-ES-EN.zip` desde Releases.
+2. Descarga `BurebistaSnowBlocks-v0.1.7-ES-EN.zip` desde Releases.
 3. Copia `Mods/BurebistaSnowBlocks.dll` a la carpeta `Mods` del juego, sustituyendo la versión anterior. Guarda las copias antiguas fuera de `Mods`.
 4. No instales el antiguo `BurebistaLanguages.dll`: esta versión no lo necesita.
 5. Abre el juego. Los objetos, recetas, mensajes y ayudas de este mod siguen el idioma seleccionado: español o inglés.
@@ -89,6 +91,8 @@ Se mantienen **F8 para construir y F5/F6 para la escala**, así como los muebles
 Los modelos están integrados en la DLL. Para recoger nieve, espera unos segundos después de cargar la región, mantén las manos vacías y apunta a nieve exterior del terreno, no a muebles ni objetos. El ZIP automático del repositorio no es el paquete de instalación.
 
 ## English
+
+**0.1.7 fix:** the knife can be dropped and picked up, shows its proper crafting name and uses metal knife sounds. Burebista confirmed it working in their game.
 
 A new water system based on **snow collected as actual inventory items**. It replaces unlimited free snow melting: gather snow or cut blocks before melting it. You can also collect unsafe water from freshwater fishing holes and use full blocks to build a compatible igloo.
 
@@ -135,14 +139,14 @@ With the compatible igloo mod installed, construction requires **40 full snow bl
 ### Installation and language
 
 1. Install **MelonLoader**, then close The Long Dark.
-2. Download `BurebistaSnowBlocks-v0.1.4-ES-EN.zip` from Releases.
+2. Download `BurebistaSnowBlocks-v0.1.7-ES-EN.zip` from Releases.
 3. Copy `Mods/BurebistaSnowBlocks.dll` into the game's `Mods` folder, replacing the previous version. Keep backups outside `Mods`.
 4. The old `BurebistaLanguages.dll` is not needed and should not be installed.
 5. Launch the game. Items, recipes, messages and hints follow the selected game language: Spanish or English.
 
 Models are embedded in the DLL. After loading, allow a few seconds before gathering. Keep hands empty and aim at outdoor terrain snow rather than furniture or gear. GitHub's automatic repository ZIP is not the installation package.
 
-## Versión / Version 0.1.4
+## Versión / Version 0.1.7
 
 Traducción español/inglés conservando el sistema y sus controles. Compilación y 187 comprobaciones del sistema, más comprobaciones adicionales de idioma, superadas. Funcionamiento confirmado por Burebista en su partida.
 
